@@ -25,3 +25,7 @@ the various Log() methods.
 This logging library is based on ideas of several other loggers I wrote at work and at home. At some point I
 got sick of each project having its own logger and decided to merge them, which resulted in a total rewrite
 and this library.
+
+## TC.Logging.Json
+
+Add-On for writing log messages to a JSON file.
